@@ -1,0 +1,5 @@
+D:\Github\SEII-PauloHenriqueBarbosaBotelho\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\SEII-PauloHenriqueBarbosaBotelho\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+D:\Github\SEII-PauloHenriqueBarbosaBotelho\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.cs
+D:\Github\SEII-PauloHenriqueBarbosaBotelho\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.csproj.CoreCompileInputs.cache
+D:\Github\SEII-PauloHenriqueBarbosaBotelho\Semana04\Exercicio02\obj\Debug\net8.0\Exercicio02.sourcelink.json

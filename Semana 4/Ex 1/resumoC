@@ -1,0 +1,33 @@
+Paradigma de Programação
+Um paradigma de programação define a abordagem utilizada para estruturar e escrever programas. Entre os principais paradigmas estão a Programação Procedural e a Programação Orientada a Objetos (POO).
+
+Programação Procedural
+A programação procedural organiza o código como uma sequência de instruções executadas de maneira ordenada. O foco está nas funções ou procedimentos que manipulam dados, geralmente estruturados de forma linear, utilizando variáveis locais e globais.
+
+Programação Orientada a Objetos (POO)
+Na POO, o foco está na modelagem de objetos que representam entidades do mundo real. Os dados e os comportamentos relacionados são agrupados dentro de classes. Esse paradigma favorece a organização do código, promove a reutilização, melhora a modularidade e facilita a manutenção dos sistemas.
+
+Como a POO melhora a construção de sistemas
+A POO possibilita o desenvolvimento de sistemas mais organizados, escaláveis e fáceis de manter. Seus principais benefícios incluem:
+
+Reutilização de Código: Através de classes e herança, partes do código podem ser reaproveitadas sem necessidade de duplicação.
+Facilidade de Manutenção: Alterações em classes ou objetos podem ser feitas sem impactar outras partes do sistema.
+Extensibilidade: Permite adicionar novas funcionalidades sem comprometer a estrutura já existente.
+Principais conceitos da POO
+Classe e Objeto
+Classe: Define um modelo que especifica atributos (dados) e métodos (comportamentos) que os objetos instanciados a partir dela terão. Pode ser comparada a um molde ou planta.
+Objeto: É uma instância de uma classe, possuindo estado e comportamentos definidos pela estrutura da classe.
+Encapsulamento
+O encapsulamento restringe o acesso direto aos dados de um objeto, permitindo que eles sejam manipulados apenas por métodos específicos da classe. Isso protege as informações e garante um controle mais seguro sobre sua modificação.
+
+Abstração
+A abstração oculta detalhes complexos da implementação, expondo apenas os aspectos essenciais para a utilização do objeto. Isso simplifica a interação com o sistema sem necessidade de conhecer sua estrutura interna.
+
+Herança
+A herança permite que uma classe herde atributos e métodos de outra, promovendo a reutilização de código e facilitando a expansão das funcionalidades sem necessidade de reescrever a lógica.
+
+Polimorfismo
+O polimorfismo possibilita que um método ou objeto apresente diferentes comportamentos conforme o contexto. Ele se manifesta de duas formas:
+
+Polimorfismo de Sobrecarga: Métodos com o mesmo nome dentro de uma classe, mas com parâmetros diferentes.
+Polimorfismo de Sobrescrita: Uma classe filha redefine um método da classe pai, alterando sua implementação.
